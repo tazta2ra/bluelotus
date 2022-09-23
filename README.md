@@ -15,3 +15,10 @@ Blue Lotus is a modpack focused on adventure and exproration while keeping minec
 - And... Botania :)
 
 Modpack is based on [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)
+
+<details>
+<summary>This pack uses Xaero's map mods.</summary>
+<a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap">Xaero's Minimap<a>
+
+<a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map">Xaero's World Map<a>
+</details>
