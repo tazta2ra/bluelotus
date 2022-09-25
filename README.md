@@ -1,6 +1,6 @@
 ![Blue Lotus](https://raw.githubusercontent.com/tazta2ra/bluelotus/main/assets/logo/hires/bluelotushires.png)
 
-<h2>The modpack is in early alpha, expect bugs and bad preformance!</h2>
+<h2>The modpack is in beta, expect bugs and bad preformance!</h2>
 
 Blue Lotus is a modpack focused on adventure and exproration while keeping minecraft's iconic style and feel. 
 
