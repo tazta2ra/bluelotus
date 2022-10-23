@@ -1,7 +1,5 @@
 ![Blue Lotus](https://raw.githubusercontent.com/tazta2ra/bluelotus/main/assets/logo/hires/bluelotushires.png)
 
-<h2>The modpack is in beta, expect bugs and bad preformance!</h2>
-
 Blue Lotus is a modpack focused on adventure and exproration while keeping minecraft's iconic style and feel. 
 
 
@@ -15,6 +13,8 @@ Blue Lotus is a modpack focused on adventure and exproration while keeping minec
 - And... Botania :)
 
 Modpack is based on [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)
+
+This github repo contains the curseforge version bc it has less mods as jars.
 
 <details>
 <summary>This pack uses Xaero's map mods.</summary>
