@@ -2,6 +2,8 @@
 
 Blue Lotus is a modpack focused on adventure and exproration while keeping minecraft's iconic style and feel. 
 
+<a href="https://www.curseforge.com/minecraft/modpacks/blue-lotus">Curseforge<a>
+<a href="https://modrinth.com/modpack/bluelotus">Modrinth<a>
 
 <b>This modpack adds :</b>
 - Origins and classes for the player
@@ -22,3 +24,5 @@ This github repo contains the curseforge version bc it has less mods as jars.
 
 <a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map">Xaero's World Map<a>
 </details>
+
+
