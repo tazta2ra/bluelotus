@@ -1,0 +1,10 @@
+{
+  "smaller_splash": true,
+  "change_copyright_to_(c)": true,
+  "COMMENT_0": "Changes the version text to <version> <modloader>",
+  "shorter_version_text": true,
+  "mod_count": true,
+  "disable_realms_button_and_notifs": true,
+  "COMMENT_1": "Removes Language and Accessibility buttons from the title screen",
+  "disable_side_buttons": true
+}
