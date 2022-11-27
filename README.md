@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/tazta2ra/bluelotus/main/assets/logo/hires/modrinth.png" alt="Blue Lotus"><br>
+<img src="https://raw.githubusercontent.com/tazta2ra/bluelotus/main/assets/logo/hires/modrinth30.png" alt="Blue Lotus"><br>
 
 <h4><center>Blue Lotus is a modpack focused on adventure and exproration while keeping minecraft's iconic style and feel.</center></h4> <br>
 
