@@ -1,0 +1,291 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Boring Default Game Rules Configuration File",
+  "gameRulesHash": "d39ca9322651db266e41723daa19ac15dc867e0e18352c44b845c08a8405de5f",
+  "description": "The config file for the \"Boring Default Game Rules\" mod.",
+  "type": "object",
+  "properties": {
+    "default_game_rules": {
+      "type": "object",
+      "title": "Default Game Rules",
+      "description": "Defines the default game rules, whose values will override the original default values. This mod provides game rule suggestions by generating a JSON schema.",
+      "properties": {
+        "announceAdvancements": {
+          "type": "boolean",
+          "title": "announceAdvancements",
+          "description": "gamerule.announceAdvancements",
+          "default": true
+        },
+        "commandBlockOutput": {
+          "type": "boolean",
+          "title": "commandBlockOutput",
+          "description": "gamerule.commandBlockOutput",
+          "default": true
+        },
+        "dashCooldown": {
+          "type": "integer",
+          "title": "dashCooldown",
+          "description": "gamerule.dashCooldown",
+          "default": 10,
+          "minimum": 0,
+          "maximum": 24000
+        },
+        "disableElytraMovementCheck": {
+          "type": "boolean",
+          "title": "disableElytraMovementCheck",
+          "description": "gamerule.disableElytraMovementCheck",
+          "default": false
+        },
+        "disableRaids": {
+          "type": "boolean",
+          "title": "disableRaids",
+          "description": "gamerule.disableRaids",
+          "default": false
+        },
+        "doDaylightCycle": {
+          "type": "boolean",
+          "title": "doDaylightCycle",
+          "description": "gamerule.doDaylightCycle",
+          "default": true
+        },
+        "doEntityDrops": {
+          "type": "boolean",
+          "title": "doEntityDrops",
+          "description": "gamerule.doEntityDrops",
+          "default": true
+        },
+        "doFireTick": {
+          "type": "boolean",
+          "title": "doFireTick",
+          "description": "gamerule.doFireTick",
+          "default": true
+        },
+        "doImmediateRespawn": {
+          "type": "boolean",
+          "title": "doImmediateRespawn",
+          "description": "gamerule.doImmediateRespawn",
+          "default": false
+        },
+        "doInsomnia": {
+          "type": "boolean",
+          "title": "doInsomnia",
+          "description": "gamerule.doInsomnia",
+          "default": true
+        },
+        "doLimitedCrafting": {
+          "type": "boolean",
+          "title": "doLimitedCrafting",
+          "description": "gamerule.doLimitedCrafting",
+          "default": false
+        },
+        "doMobLoot": {
+          "type": "boolean",
+          "title": "doMobLoot",
+          "description": "gamerule.doMobLoot",
+          "default": true
+        },
+        "doMobSpawning": {
+          "type": "boolean",
+          "title": "doMobSpawning",
+          "description": "gamerule.doMobSpawning",
+          "default": true
+        },
+        "doPatrolSpawning": {
+          "type": "boolean",
+          "title": "doPatrolSpawning",
+          "description": "gamerule.doPatrolSpawning",
+          "default": true
+        },
+        "doTileDrops": {
+          "type": "boolean",
+          "title": "doTileDrops",
+          "description": "gamerule.doTileDrops",
+          "default": true
+        },
+        "doTraderSpawning": {
+          "type": "boolean",
+          "title": "doTraderSpawning",
+          "description": "gamerule.doTraderSpawning",
+          "default": true
+        },
+        "doWeatherCycle": {
+          "type": "boolean",
+          "title": "doWeatherCycle",
+          "description": "gamerule.doWeatherCycle",
+          "default": true
+        },
+        "drowningDamage": {
+          "type": "boolean",
+          "title": "drowningDamage",
+          "description": "gamerule.drowningDamage",
+          "default": true
+        },
+        "fallDamage": {
+          "type": "boolean",
+          "title": "fallDamage",
+          "description": "gamerule.fallDamage",
+          "default": true
+        },
+        "feedCooldown": {
+          "type": "integer",
+          "title": "feedCooldown",
+          "description": "gamerule.feedCooldown",
+          "default": 10,
+          "minimum": 0,
+          "maximum": 24000
+        },
+        "fireDamage": {
+          "type": "boolean",
+          "title": "fireDamage",
+          "description": "gamerule.fireDamage",
+          "default": true
+        },
+        "forgiveDeadPlayers": {
+          "type": "boolean",
+          "title": "forgiveDeadPlayers",
+          "description": "gamerule.forgiveDeadPlayers",
+          "default": true
+        },
+        "freezeDamage": {
+          "type": "boolean",
+          "title": "freezeDamage",
+          "description": "gamerule.freezeDamage",
+          "default": true
+        },
+        "keepInventory": {
+          "type": "boolean",
+          "title": "keepInventory",
+          "description": "gamerule.keepInventory",
+          "default": false
+        },
+        "logAdminCommands": {
+          "type": "boolean",
+          "title": "logAdminCommands",
+          "description": "gamerule.logAdminCommands",
+          "default": true
+        },
+        "maxCommandChainLength": {
+          "type": "integer",
+          "title": "maxCommandChainLength",
+          "description": "gamerule.maxCommandChainLength",
+          "default": 65536
+        },
+        "maxEntityCramming": {
+          "type": "integer",
+          "title": "maxEntityCramming",
+          "description": "gamerule.maxEntityCramming",
+          "default": 24
+        },
+        "mobGriefing": {
+          "type": "boolean",
+          "title": "mobGriefing",
+          "description": "gamerule.mobGriefing",
+          "default": true
+        },
+        "naturalRegeneration": {
+          "type": "boolean",
+          "title": "naturalRegeneration",
+          "description": "gamerule.naturalRegeneration",
+          "default": true
+        },
+        "playerVampireConversion": {
+          "type": "boolean",
+          "title": "playerVampireConversion",
+          "description": "gamerule.playerVampireConversion",
+          "default": true
+        },
+        "playersSleepingPercentage": {
+          "type": "integer",
+          "title": "playersSleepingPercentage",
+          "description": "gamerule.playersSleepingPercentage",
+          "default": 100
+        },
+        "randomTickSpeed": {
+          "type": "integer",
+          "title": "randomTickSpeed",
+          "description": "gamerule.randomTickSpeed",
+          "default": 3
+        },
+        "reducedDebugInfo": {
+          "type": "boolean",
+          "title": "reducedDebugInfo",
+          "description": "gamerule.reducedDebugInfo",
+          "default": false
+        },
+        "sendCommandFeedback": {
+          "type": "boolean",
+          "title": "sendCommandFeedback",
+          "description": "gamerule.sendCommandFeedback",
+          "default": true
+        },
+        "showDeathMessages": {
+          "type": "boolean",
+          "title": "showDeathMessages",
+          "description": "gamerule.showDeathMessages",
+          "default": true
+        },
+        "spawnRadius": {
+          "type": "integer",
+          "title": "spawnRadius",
+          "description": "gamerule.spawnRadius",
+          "default": 10
+        },
+        "spectatorsGenerateChunks": {
+          "type": "boolean",
+          "title": "spectatorsGenerateChunks",
+          "description": "gamerule.spectatorsGenerateChunks",
+          "default": true
+        },
+        "sunlightDamagesArmour": {
+          "type": "boolean",
+          "title": "sunlightDamagesArmour",
+          "description": "gamerule.sunlightDamagesArmour",
+          "default": true
+        },
+        "universalAnger": {
+          "type": "boolean",
+          "title": "universalAnger",
+          "description": "gamerule.universalAnger",
+          "default": false
+        },
+        "vampireHunterNoticeChance": {
+          "type": "number",
+          "title": "vampireHunterNoticeChance",
+          "description": "gamerule.vampireHunterNoticeChance",
+          "default": 0.1,
+          "minimum": 0.0,
+          "maximum": 1.0
+        },
+        "vampireInvisibilityLength": {
+          "type": "integer",
+          "title": "vampireInvisibilityLength",
+          "description": "gamerule.vampireInvisibilityLength",
+          "default": 80,
+          "minimum": 0,
+          "maximum": 24000
+        },
+        "vampiresBurn": {
+          "type": "boolean",
+          "title": "vampiresBurn",
+          "description": "gamerule.vampiresBurn",
+          "default": true
+        },
+        "vampiresDrown": {
+          "type": "boolean",
+          "title": "vampiresDrown",
+          "description": "gamerule.vampiresDrown",
+          "default": true
+        }
+      }
+    },
+    "generate_json_schema": {
+      "type": "boolean",
+      "title": "Generate JSON Schema",
+      "description": "If enabled, this mod will generate a JSON schema in order to aid with configuration. You may disable this if you don\u0027t plan to change the settings and want to save space, and once disabled, you can safely remove both the schema and the \"$schema\" property."
+    }
+  },
+  "required": [
+    "default_game_rules",
+    "generate_json_schema"
+  ]
+}

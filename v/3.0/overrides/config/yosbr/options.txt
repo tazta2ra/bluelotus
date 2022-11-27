@@ -1,0 +1,21 @@
+version:2975
+autoJump:false
+snooperEnabled:false
+simulationDistance:6
+guiScale:3
+maxFps:260
+resourcePacks:["spoornpacks","vanilla","Fabric Mods","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix","resources/journeyman","resources/Blue Lotus Pack"]
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_zoomify.key.zoom:key.keyboard.c
+key_zoomify.key.gui:key.keyboard.unknown
+key_key.wi_zoom.zoom:key.keyboard.c
+key_key.antighost.reveal:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_key.origins.primary_active:key.keyboard.g
+key_key.origins.secondary_active:key.keyboard.v
+key_key.saveToolbarActivator:key.keyboard.x

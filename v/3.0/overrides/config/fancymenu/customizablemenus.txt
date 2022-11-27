@@ -1,0 +1,14 @@
+type = customizablemenus
+
+net.minecraft.class_433 {
+}
+
+net.minecraft.class_429 {
+}
+
+thecsdev.betterstats.client.gui.screen.BetterStatsScreen {
+}
+
+net.minecraft.class_442 {
+}
+
