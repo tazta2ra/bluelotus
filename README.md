@@ -1,28 +1,64 @@
-![Blue Lotus](https://raw.githubusercontent.com/tazta2ra/bluelotus/main/assets/logo/hires/bluelotushires.png)
+<img src="https://raw.githubusercontent.com/tazta2ra/bluelotus/main/assets/logo/hires/modrinth.png" alt="Blue Lotus"><br>
 
-Blue Lotus is a modpack focused on adventure and exproration while keeping minecraft's iconic style and feel. 
+<h4><center>Blue Lotus is a modpack focused on adventure and exproration while keeping minecraft's iconic style and feel.</center></h4> <br>
 
-<a href="https://www.curseforge.com/minecraft/modpacks/blue-lotus">Curseforge<a>
-<a href="https://modrinth.com/modpack/bluelotus">Modrinth<a>
+<img src="https://raw.githubusercontent.com/tazta2ra/bluelotus/main/assets/logo/hires/modrinth2.png" alt="Features"><br>
 
-<b>This modpack adds :</b>
-- Origins and classes for the player
-- Skill points and relics
-- New Biomes
-- New Illagers and outposts
-- Guilds
-- New Ores and armor
-- And... Botania :)
+<ul>
+    <li>Start your game with a different origins for unique challenges or stick to a classic vanilla gameplay!</li>
+    <li>Upgrade your abilities and find rare relics with special powers!</li>
+    <li>Explore new and interesting biomes with <b>Terralith</b>!</li>
+    <li>Battle the many illager camps spread around the world and defeat the powerful <b>Invokers</b>!</li>
+    <li>Complete guild quests to earn rewards!</li>
+    <li>Discover new ores, smelt and mix them to make the most <b>Mythical Metals</b>! </li>
+    <li>Craft unique armors and weapons with <b>Dungeons Armor/Weapons</b></li>
+    <li>Fight the difficult enemies of <b>Rotten Creatures</b> and <b>Eldrich Mods!</b></li>
+    <li>Unlock your creativity with <b>Create</b> and <b>Botania</b></li> 
 
-Modpack is based on [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)
+</ul>
 
-This github repo contains the curseforge version bc it has less mods as jars.
+<h1>Optimized for multiplayer :</h1>
+<ul>
+    <li>Many optimization mods for a speedy performance*</li>
+    <li>Every player has their own loot in chests </li>  
+    <li><b>SleepWarp</b> for realistic sleep-mechanics </li>  
+    <li>Only half od the players need to sleep to pass the night</li>
+    <li>Built in Optifine Shader support with <b>Iris</b>!</li>
+</ul>
+<p>*The modpack can run under 3GB of RAM but a fast CPU is recommended!</p>
+
 
 <details>
-<summary>This pack uses Xaero's map mods.</summary>
-<a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap">Xaero's Minimap<a>
+<summary>Contains these mods from curseforge:</summary>
 
-<a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map">Xaero's World Map<a>
+<p>MC Dungeons Armor/Weapons Mods:</p> 
+
+<b>Disclaimer : I was given permission by the developers to include these mods in the modpack as jar files.</b>
+
+<ul>
+<li> <a href="https://www.curseforge.com/minecraft/mc-mods/mcda">MC Dungeons Armor</a></li>
+<li> <a href="https://www.curseforge.com/minecraft/mc-mods/mcdw">MC Dungeons Weapons</a></li>
+</ul>
+
+<p>Other mods that don't have 1.18.2 version on modrinth:</p> 
+
+<ul>
+<li> <a href="https://www.curseforge.com/minecraft/mc-mods/no-fade">No fade</a></li>
+<li> <a href="https://www.curseforge.com/minecraft/mc-mods/smooth-boot">Smooth Boot</a></li>
+<li> <a href="https://www.curseforge.com/minecraft/mc-mods/open-loader">Open loader</a></li>
+<li> <a href="https://www.curseforge.com/minecraft/mc-mods/bclib">BCLib</a></li>
+<li> <a href="https://www.curseforge.com/minecraft/mc-mods/forgotten-graves">Forgotten Graves</a></li>
+<li> <a href="https://www.curseforge.com/minecraft/mc-mods/spoornpacks">SpoornPacks</a></li>
+<li> <a href="https://www.curseforge.com/minecraft/mc-mods/myloot">myLoot</a></li>
+<li> <a href="https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered">Sound Physics Remastered</a></li>
+</ul>
+
+<p>Older versions include</p>
+
+<ul>
+<li> <a href="https://www.curseforge.com/minecraft/mc-mods/stoneholm">Stoneholm</a></li>
+<li> <a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap">Xaero's Minimap</a></li>
+<li> <a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map">Xaero's World Map</a></li>
+</ul>
+
 </details>
-
-
