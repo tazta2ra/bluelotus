@@ -2,6 +2,8 @@
 
 <h4><center>Blue Lotus is a modpack focused on adventure and exproration while keeping minecraft's iconic style and feel.</center></h4> <br>
 
+<a href="https://modrinth.com/modpack/bluelotus"><img src="https://raw.githubusercontent.com/modrinth/art/a05e2307b42762d64a370a3cf3e8b6b30735dce1/Branding/Badge/badge-dark.svg"></a>
+
 <img src="https://raw.githubusercontent.com/tazta2ra/bluelotus/main/assets/logo/hires/modrinth2.png" alt="Features"><br>
 
 <ul>
