@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/tazta2ra/bluelotus/main/assets/logo/hires/modrinth30.png" alt="Blue Lotus"><br>
 
+<img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/CVfnTLOu?color=green&label=Modrinth"> <img alt="Cursefoge Downloads" src="https://cf.way2muchnoise.eu/678970.svg">
+
 <h4><center>Blue Lotus is a modpack focused on adventure and exproration while keeping minecraft's iconic style and feel.</center></h4> <br>
 
 <a href="https://modrinth.com/modpack/bluelotus"><img src="https://raw.githubusercontent.com/modrinth/art/a05e2307b42762d64a370a3cf3e8b6b30735dce1/Branding/Badge/badge-dark.svg"></a>
