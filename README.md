@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/tazta2ra/bluelotus/main/assets/logo/hires/modrinth30.png" alt="Blue Lotus"><br>
+<img src="https://raw.githubusercontent.com/tazta2ra/bluelotus/main/assets/logo/hires/title_HD.png" alt="Blue Lotus"><br>
 
 <a href="https://modrinth.com/modpack/bluelotus"><img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/CVfnTLOu?color=00ff33&logo=Modrinth&style=for-the-badge"></a> <a href="https://www.curseforge.com/minecraft/modpacks/blue-lotus"><img alt="Cursefoge Downloads" src="https://cf.way2muchnoise.eu/678970.svg?badge_style=for_the_badge"></a>
 
