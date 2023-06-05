@@ -1,0 +1,84 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  action = setscale
+  scale = 4
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 105
+  width = 270
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = 313865f3-ca9b-45e3-8ab9-2c4daa03a4891675446908790
+  y = 102
+  height = 66
+}
+
+customization {
+  custom_color_hex = #245aef
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = 0d049471-45ec-4f67-b112-3f9bb732ff331675446908809
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 105
+  width = 270
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = d6577ed7-50f4-41bc-8a03-c434fa5190ed1675446908809
+  y = 219
+  height = 10
+}
+
+customization {
+  path = config/drippyloadingscreen/bluelotus/blue.png
+  orientation = mid-centered
+  x = -65
+  width = 130
+  action = addtexture
+  actionid = 47a257f5-89a5-486b-a1be-31d09e99a90b1675447009048
+  y = -77
+  height = 130
+}
+
+customization {
+  orientation = mid-centered
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = Loading...
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -24
+  width = 48
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = f2fae923-b923-4914-8466-352b815cb4851675447048625
+  y = 73
+  alignment = centered
+  height = 11
+}
+

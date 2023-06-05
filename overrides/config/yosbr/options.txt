@@ -1,0 +1,16 @@
+version:3120
+autoJump:false
+snooperEnabled:false
+guiScale:3
+maxFps:260
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+
+
+resourcePacks:["Supplementaries Generated Pack","spoornpacks","vanilla","file/Unified Zombies.zip","file/EBE_v1.1_1.19.x.zip","Blue Lotus Pack","VanillaTweaks_r733776.zip"]
+
+key_key.saveToolbarActivator:key.keyboard.x
+key_key.loadToolbarActivator:key.keyboard.unknown
+key_key.botania_corporea_request:key.keyboard.unknown
+key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c

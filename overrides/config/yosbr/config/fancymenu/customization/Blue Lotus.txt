@@ -1,0 +1,237 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = bluelotus
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -15
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = bottom-left
+  x = 49
+  action = movebutton
+  y = -42
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 10
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttonlabel
+  value = Options
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 35
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = bottom-left
+  x = 73
+  action = movebutton
+  y = -42
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -40
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = mid-centered
+  x = 3
+  action = movebutton
+  y = 10
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 232
+  action = deep_customization_element:title_screen_branding
+  actionid = 3b61f09e-bd77-4c75-9fa0-cbad510d1b3c1669302408864
+  y = 258
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 423
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 2b3b35dc-6a2d-4b0f-b7a3-8a5555c070dd1669302408877
+  y = 190
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 183
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = cc88ec89-3328-44f4-83e4-6eadd39b0b1c1669302408878
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = top-centered
+  splash_color = #ffff00
+  hidden = true
+  x = 206
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = e810f5a3-5903-43b9-8caf-3b501ea74c091669302408878
+  y = 71
+  height = 30
+}
+
+customization {
+  orientation = bottom-left
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://modrinth.com/modpack/bluelotus%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/bluelotus/modrinth_on.png
+  description = Modrinth
+  label = 
+  loopbackgroundanimations = true
+  x = 1
+  width = 20
+  action = addbutton
+  actionid = c629cfe1-a829-4a15-92b6-1228a20468771669304338558
+  y = -42
+  backgroundnormal = config/fancymenu/bluelotus/modrinth_off.png
+  height = 20
+}
+
+customization {
+  orientation = bottom-left
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = Blue Lotus 3.0.0
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 2
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 06d6d779-215d-4023-b6aa-8a507b31483b1669460371433
+  y = -20
+  alignment = left
+  height = 11
+}
+
+customization {
+  orientation = bottom-left
+  restartbackgroundanimations = true
+  buttonaction = openlink;%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/bluelotus/git_on.png
+  description = Github
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = 
+  x = 25
+  width = 20
+  action = addbutton
+  actionid = 131807bf-00dd-4841-a3ee-bb70f73e13751669464601844
+  y = -42
+  backgroundnormal = config/fancymenu/bluelotus/git_off.png
+  height = 20
+}
+
+customization {
+  path = 
+  orientation = top-left
+  x = 0
+  width = 0
+  action = addtexture
+  actionid = 026361f4-ec4a-43bd-9d12-f66e41fb7a621669473357012
+  y = 6
+  height = 100
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = join_last_world;null%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/bluelotus/play_on.png
+  description = Continue
+  label = 
+  loopbackgroundanimations = true
+  x = 104
+  width = 20
+  action = addbutton
+  actionid = 00678736-e847-46d4-baa6-7f5ccbda859d1669473572631
+  y = -40
+  backgroundnormal = config/fancymenu/bluelotus/play_off.png
+  height = 20
+}
+
+customization {
+  advanced_height = 48
+  path = config/fancymenu/bluelotus/title_logoless.png
+  orientation = top-centered
+  x = -118
+  width = 237
+  action = addtexture
+  actionid = 4f657bca-d627-47bd-a3bd-2fb9c7c5170c1672151535026
+  y = 23
+  advanced_width = 237
+  height = 48
+}
+
